@@ -7,10 +7,8 @@ h1{
     outline-color:#555;
     
 }
-.place-socials {
-    position: absolute;
-    top: 300px;
-    left: 300px;
+.max-width-100{
+    max-width: 75%;
 }
 
 .icon-bar {
