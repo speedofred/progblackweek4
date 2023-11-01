@@ -5,8 +5,24 @@ h1{
     outline-width: 5px;
     outline-style:solid;
     outline-color:#555;
-    
 }
+
+h2{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    font-family: pythagoras;
+}
+
+.Topics{
+  padding-bottom: 100px;
+}
+
+.paragraph_text_style{
+    font-family: pythagoras;
+    font-size: large;
+}
+
 .max-width-100{
     max-width: 75%;
 }
