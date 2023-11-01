@@ -42,6 +42,10 @@ footer {
     padding: 10px;
 }
 
+a {
+    color: cornsilk;
+}
+
 /* Creates a box which text could be put in */
 .box {
     width: 200px;
